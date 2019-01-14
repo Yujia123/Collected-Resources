@@ -1,2 +1,2 @@
 
-Python数据之道: http://liyangbit.com/pythonvisualization/matplotlib-top-50-visualizations/
+Python鏁版嵁涔嬮亾: http://liyangbit.com/pythonvisualization/matplotlib-top-50-visualizations/
