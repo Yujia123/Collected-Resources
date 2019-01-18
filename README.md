@@ -3,4 +3,4 @@
 
 
 ### Leetcode
-[luyiyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode)
+[luyiyucoordinate](https://github.com/luliyucoordinate/Leetcode)
