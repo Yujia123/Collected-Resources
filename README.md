@@ -18,8 +18,8 @@ https://github.com/fchollet/deep-learning-with-python-notebooks
 https://github.com/fchollet/keras-resources     
 
 
-* TensorFlow and DeepLearning Tutorial</br>
-地址:</br>
+* TensorFlow / Deep Learning Tutorial in Chinese 中文教程</br>
+地址: </br>
 https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial
 
 ### Leetcode
