@@ -11,7 +11,7 @@ http://github.com/Avik-Jain/100-Days--Of-ML-Code-Chinese-Version
 地址:
 https://github.com/fchollet/deep-learning-with-python-notebooks
 
-Keras Resources
+* Keras Resources
 (This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library.)
 地址:
 https://github.com/fchollet/keras-resources
