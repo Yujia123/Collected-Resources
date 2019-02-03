@@ -11,11 +11,16 @@ http://github.com/Avik-Jain/100-Days--Of-ML-Code-Chinese-Version
 地址:     
 https://github.com/fchollet/deep-learning-with-python-notebooks       
 
+
 * Keras Resources     
 (This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library.)      
 地址:     
 https://github.com/fchollet/keras-resources     
 
+
+* TensorFlow and DeepLearning Tutorial</br>
+地址:</br>
+https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial
 
 ### Leetcode
 [luyiyucoordinate](https://github.com/luliyucoordinate/Leetcode)
