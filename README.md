@@ -22,9 +22,5 @@ https://github.com/fchollet/keras-resources
 地址: </br>
 https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial
 
-* Dive into Deep Learning (An interactive deep learning book with code, math, and discussions)  
-地址: </br>
-http://d2l.ai/
-
 ### Leetcode
 [luyiyucoordinate](https://github.com/luliyucoordinate/Leetcode)
