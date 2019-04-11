@@ -1,7 +1,9 @@
 # Collected-Resources
 
 * Github上课程资源   
+清华： https://github.com/PKUanonym/REKCARC-TSC-UHT     
 北大： https://github.com/lib-pku/libpku   
+浙江大学课程攻略共享计划：https://github.com/QSCTech/zju-icicles   
 中国科学技术大学：https://github.com/USTC-Resource/USTC-Course   
 
 * Machine Learning Engineer Career Path   
