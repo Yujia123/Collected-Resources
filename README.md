@@ -5,9 +5,15 @@
 
 # Learning resources
 
+* The Algorithms -Python - All algorithms implemented in Python  
+地址:  
+https://github.com/TheAlgorithms/Python  
+
+
 * Python-100-Days (Python新手100天学习计划)  
 地址:  
 https://github.com/jackfrued/Python-100-Days  
+
 
 * Github上课程资源   
 中国科学技术大学：https://github.com/USTC-Resource/USTC-Course   
@@ -15,8 +21,10 @@ https://github.com/jackfrued/Python-100-Days
 清华： https://github.com/PKUanonym/REKCARC-TSC-UHT     
 北大： https://github.com/lib-pku/libpku   
 
+
 * Machine Learning Engineer Career Path   
 地址: https://bit.ly/2US0Mn4   
+
 
 * 100 Days Of ML Code (机器学习100天)    
 地址:    
