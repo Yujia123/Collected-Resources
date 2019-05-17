@@ -1,4 +1,13 @@
-# Collected-Resources
+# Technical 
+
+* Notebook coding platform: https://nextjournal.com  
+
+
+# Learning resources
+
+* Python-100-Days (Python新手100天学习计划)  
+地址:  
+https://github.com/jackfrued/Python-100-Days  
 
 * Github上课程资源   
 中国科学技术大学：https://github.com/USTC-Resource/USTC-Course   
