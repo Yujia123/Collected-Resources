@@ -5,6 +5,17 @@
 
 # Learning resources
 
+* 数据结构和算法动态可视化  
+https://visualgo.net/en  
+
+
+* Algorithm Visualizer  
+Github地址:  
+https://github.com/algorithm-visualizer/algorithm-visualizer  
+演示地址:  
+https://algorithm-visualizer.org/brute-force/bubble-sort  
+
+
 * The Algorithms -Python - All algorithms implemented in Python  
 地址:  
 https://github.com/TheAlgorithms/Python  
