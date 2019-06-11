@@ -2,6 +2,21 @@
 
 * Notebook coding platform: https://nextjournal.com  
 
+# Deep Learning  
+
+* EfficientNet: [谷歌提出新型卷积网络EfficientNet：推理速度提升5.1倍，参数减少88%（附论文&代码）](https://bit.ly/2WCO51r)  
+
+* [一文教你如何处理不平衡数据集（附代码）](https://bit.ly/2XDothj)  
+
+# Pandas
+
+* [11个Python Pandas小技巧让你的工作更高效](https://bit.ly/2I8mVX2)  
+[10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)  
+
+
+# Matploblib
+
+* 高效利用Matplotlib: http://pbpython.com/effective-matplotlib.html  
 
 # Learning resources
 
@@ -60,4 +75,11 @@ https://github.com/fchollet/keras-resources
 https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial
 
 ### Leetcode
-[luyiyucoordinate](https://github.com/luliyucoordinate/Leetcode)
+[luyiyucoordinate](https://github.com/luliyucoordinate/Leetcode)  
+
+[LeetCode 中文解题攻略: LeetCode Solutions: A Record of My Problem Solving Journey](https://github.com/azl397985856/leetcode)  
+
+[LeetCode Animation All in One](https://github.com/MisterBooo/LeetCodeAnimation)  
+
+
+
