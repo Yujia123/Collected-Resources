@@ -4,7 +4,7 @@
 
 # Deep Learning  
 
-* EfficientNet: [谷歌提出新型卷积网络EfficientNet：推理速度提升5.1倍，参数减少88%（附论文&代码）](https://bit.ly/2WCO51r)  
+* [谷歌提出新型卷积网络EfficientNet：推理速度提升5.1倍，参数减少88%（附论文&代码）](https://bit.ly/2WCO51r)  
 
 * [一文教你如何处理不平衡数据集（附代码）](https://bit.ly/2XDothj)  
 
@@ -20,6 +20,10 @@
 
 # Learning resources
 
+* Data-Science--Cheat-Sheet  
+https://github.com/abhat222/Data-Science--Cheat-Sheet  
+
+
 * 数据结构和算法动态可视化  
 https://visualgo.net/en  
 
@@ -31,7 +35,7 @@ https://github.com/algorithm-visualizer/algorithm-visualizer
 https://algorithm-visualizer.org/brute-force/bubble-sort  
 
 
-* The Algorithms -Python - All algorithms implemented in Python  
+* The Algorithms -Python - All algorithms implemented in Python (用Python实现所有算法)  
 地址:  
 https://github.com/TheAlgorithms/Python  
 
