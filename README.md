@@ -4,7 +4,7 @@
 
 # Deep Learning  
 
-* [谷歌提出新型卷积网络EfficientNet：推理速度提升5.1倍，参数减少88%（附论文&代码）](https://bit.ly/2WCO51r)  
+* [谷歌提出新型卷积网络EfficientNet：推理速度提升5.1倍，参数减少88%（附论文&代码）](https://mp.weixin.qq.com/s?src=11&timestamp=1560412460&ver=1665&signature=*l1lF*ooRCbm3TcA3gVFOqW*deMk*LhoR1B9FU4UhU8x6FBh21vIYjgtXcIDP7ykJxRRI1HBvC0tMI4f1JeV7OEkGzahsghSXHK2XLVXJAWaByb28NhW1hWPFjniLq*m&new=1)  
 
 * [一文教你如何处理不平衡数据集（附代码）](https://bit.ly/2XDothj)  
 
