@@ -20,6 +20,10 @@
 
 # Learning resources
 
+* 深度学习500问  
+https://github.com/scutan90/DeepLearning-500-questions
+
+
 * Data-Science--Cheat-Sheet  
 https://github.com/abhat222/Data-Science--Cheat-Sheet  
 
