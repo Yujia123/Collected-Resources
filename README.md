@@ -1,3 +1,14 @@
+# Machine Learning Resources
+
+* [深度学习课程笔记](https://bit.ly/2Z8lJgJ)  
+* [50个最佳机器学习公共数据集](https://bit.ly/2L36T1c)  
+* [上手必备！不可错过的TensorFlow、PyTorch和Keras样例资源](https://bit.ly/2ZjI2v7)
+
+# AutoML
+
+* [Autokeras](https://autokeras.com/), [论文地址](https://arxiv.org/abs/1806.10282)
+* [auto-sklearn](https://automl.github.io/auto-sklearn/master/)  
+
 # Technical 
 
 ## Tool  
@@ -105,5 +116,8 @@ https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial
 
 [LeetCode Animation All in One](https://github.com/MisterBooo/LeetCodeAnimation)  
 
+### 参考博客
+
+* https://github.com/fengdu78/machine_learning_beginner
 
 
