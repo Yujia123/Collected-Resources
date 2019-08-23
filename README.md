@@ -118,6 +118,6 @@ https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial
 
 ### 参考博客
 
-* https://github.com/fengdu78/machine_learning_beginner
+* [机器学习初学者](https://github.com/fengdu78/machine_learning_beginner)
 
 
