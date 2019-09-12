@@ -1,3 +1,8 @@
+# Time Series Classification
+
+* [Github: Deep Learning for Time Series Classification](https://github.com/hfawaz/dl-4-tsc)
+
+
 # Machine Learning Resources
 
 * [深度学习课程笔记](https://bit.ly/2Z8lJgJ)  
