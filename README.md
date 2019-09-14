@@ -1,6 +1,7 @@
 # Time Series Classification
 
-* [Github: Deep Learning for Time Series Classification](https://github.com/hfawaz/dl-4-tsc)
+* [Github: Deep Learning for Time Series Classification](https://github.com/hfawaz/dl-4-tsc)   
+* [Deep Neural Network Ensembles for Time Series Classification](https://github.com/hfawaz/ijcnn19ensemble)   
 
 
 # Machine Learning Resources
