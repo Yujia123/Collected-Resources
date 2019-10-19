@@ -1,3 +1,13 @@
+# Master thesis
+
+## Imbalanced Classes
+[Imbalanced Classes: Part 2 (Avoiding Imbalanced Class Pitfalls in Classification)](https://towardsdatascience.com/imbalanced-class-sizes-and-classification-models-a-cautionary-tale-part-2-cf371500d1b3)    
+
+## Scikit-learn Pipeline
+[Scikit-Learn Pipeline Examples](http://queirozf.com/entries/scikit-learn-pipeline-examples)   
+[A Simple Guide to Scikit-learn Pipelines](https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf)   
+
+
 # Time Series Classification
 
 * [Deep Learning for Time Series Classification](https://github.com/hfawaz/dl-4-tsc)[Github]    
