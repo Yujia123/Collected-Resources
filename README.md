@@ -1,7 +1,8 @@
 # Master thesis
 
 ### Imbalanced Classes
-[Imbalanced Classes: Part 2 (Avoiding Imbalanced Class Pitfalls in Classification)](https://towardsdatascience.com/imbalanced-class-sizes-and-classification-models-a-cautionary-tale-part-2-cf371500d1b3)    
+[Imbalanced Classes: Part 2 (Avoiding Imbalanced Class Pitfalls in Classification)](https://towardsdatascience.com/imbalanced-class-sizes-and-classification-models-a-cautionary-tale-part-2-cf371500d1b3)   
+[Imbalanced-learn for NSL-KDD](https://www.jianshu.com/p/01080d7732f5)   
 
 ### Scikit-learn Pipeline
 [Scikit-Learn Pipeline Examples](http://queirozf.com/entries/scikit-learn-pipeline-examples)   
