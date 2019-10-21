@@ -23,6 +23,7 @@
 * [80页笔记看遍机器学习基本概念、算法、模型，帮新手少走弯路](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#tableofcontents)   
 * [深度学习课程笔记](https://bit.ly/2Z8lJgJ)  
 * [50个最佳机器学习公共数据集](https://bit.ly/2L36T1c)  
+* [Machine learning datasets](https://www.datasetlist.com/)  
 * [上手必备！不可错过的TensorFlow、PyTorch和Keras样例资源](https://bit.ly/2ZjI2v7)
 
 # AutoML
