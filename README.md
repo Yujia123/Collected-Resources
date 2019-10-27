@@ -10,7 +10,7 @@
 
 
 
-       
+ 
        
 # Time Series Classification
 
@@ -52,6 +52,10 @@
 # Math
 
 * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book.pdf)   
+
+# PyTorch
+
+* [《动手学深度学习》 PyTorch版](https://github.com/ShusenTang/Dive-into-DL-PyTorch)   
 
 # Deep Learning  
 
