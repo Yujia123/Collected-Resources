@@ -53,6 +53,9 @@
 
 * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book.pdf)   
 
+* [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)   
+
+
 # PyTorch
 
 * [《动手学深度学习》 PyTorch版](https://github.com/ShusenTang/Dive-into-DL-PyTorch)   
