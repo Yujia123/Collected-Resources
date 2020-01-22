@@ -62,8 +62,8 @@
 
 # TensorFlow
 
-* [《TensorFlow 2.0 深度学习算法实战》](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)   
-  [中文版教材电子版pdf](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book/blob/master/%E3%80%90%E3%80%8ATensorFlow%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E3%80%8B%E3%80%91.pdf)
+* [《TensorFlow 2.0 深度学习算法实战》](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)  
+    [中文版教材电子版pdf](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book/blob/master/%E3%80%90%E3%80%8ATensorFlow%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E3%80%8B%E3%80%91.pdf)
 
 # Deep Learning  
 
