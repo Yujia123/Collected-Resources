@@ -60,6 +60,11 @@
 
 * [《动手学深度学习》 PyTorch版](https://github.com/ShusenTang/Dive-into-DL-PyTorch)   
 
+# TensorFlow
+
+* [《TensorFlow 2.0 深度学习算法实战》](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)   
+  [中文版教材电子版pdf](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book/blob/master/%E3%80%90%E3%80%8ATensorFlow%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E3%80%8B%E3%80%91.pdf)
+
 # Deep Learning  
 
 * [谷歌提出新型卷积网络EfficientNet：推理速度提升5.1倍，参数减少88%（附论文&代码）](https://mp.weixin.qq.com/s?src=11&timestamp=1560412460&ver=1665&signature=*l1lF*ooRCbm3TcA3gVFOqW*deMk*LhoR1B9FU4UhU8x6FBh21vIYjgtXcIDP7ykJxRRI1HBvC0tMI4f1JeV7OEkGzahsghSXHK2XLVXJAWaByb28NhW1hWPFjniLq*m&new=1)  
