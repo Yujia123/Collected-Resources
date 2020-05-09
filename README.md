@@ -68,8 +68,7 @@
 
 # Deep Learning  
 
-* [CNN解释器](https://poloclub.github.io/cnn-explainer/)   
-  [论文: CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization](https://arxiv.org/abs/2004.15004)   
+* [CNN解释器](https://poloclub.github.io/cnn-explainer/)     [论文: CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization](https://arxiv.org/abs/2004.15004)   
 
 * [谷歌提出新型卷积网络EfficientNet：推理速度提升5.1倍，参数减少88%（附论文&代码）](https://mp.weixin.qq.com/s?src=11&timestamp=1560412460&ver=1665&signature=*l1lF*ooRCbm3TcA3gVFOqW*deMk*LhoR1B9FU4UhU8x6FBh21vIYjgtXcIDP7ykJxRRI1HBvC0tMI4f1JeV7OEkGzahsghSXHK2XLVXJAWaByb28NhW1hWPFjniLq*m&new=1)  
 
