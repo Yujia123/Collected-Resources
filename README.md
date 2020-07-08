@@ -49,6 +49,8 @@
 
 * [Built-in magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)  
 
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
 # Math
 
 * [Mathematics for Machine Learning](https://github.com/mml-book/mml-book.github.io/blob/master/book/mml-book.pdf)   
